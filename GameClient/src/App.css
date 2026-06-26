@@ -182,3 +182,26 @@
     border-right-color: var(--border);
   }
 }
+
+.hpBar {
+  width: 200px;
+  height: 30px;
+  background-color: #262926;
+  margin: 0 auto;
+  border-radius: 10px;
+  border: 4px solid rgb(129, 48, 10);
+}
+
+.hpFill{
+  width: 100%;
+  height: 100%;
+  background-color: #3cff00;
+  border-radius: 10px;
+}
+
+.monster{
+  width: 200px;
+  cursor: pointer;
+  user-select: none;
+  margin: 20px ;
+}
