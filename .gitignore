@@ -1,0 +1,17 @@
+# React
+GameClient/node_modules/
+GameClient/dist/
+
+# .NET
+GameApi/bin/
+GameApi/obj/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
